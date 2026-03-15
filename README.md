@@ -29,5 +29,4 @@ As I progress through the advanced exercises (Ex. 72 - 115), I focus on:
 ## 🛠 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/DaviBarroncas/python-exercises.git](https://github.com/DaviBarroncas/python-exercises.git)
-
+   https://github.com/DaviBarroncas/Python-fundamental-challenges.git
