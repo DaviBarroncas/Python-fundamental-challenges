@@ -5,6 +5,7 @@ jogos=list()
 b=int(input("quantas vezes voce quer sortear? "))
 c=1
 while c <=b:
+    c+=1
     d=0
     while True:
         e=randint(1, 60)
