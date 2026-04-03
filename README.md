@@ -1,4 +1,4 @@
-# 🐍 Python Logic & Algorithms (Curso em Vídeo)
+#  Python Logic & Algorithms (Curso em Vídeo)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Learning](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)
@@ -13,18 +13,18 @@ The curriculum is divided into three main modules (Worlds), covering everything 
 * **World 2:** Control structures (`if/elif`), and loops (`for/while`).
 * **World 3:** Composite data structures (Tuples, Lists, Dictionaries) and Functions.
 
-## 🧪 Skills Highlighted (World 3)
-As I progress through the advanced exercises (Ex. 72 - 115), I focus on:
+##  Skills Highlighted (World 3)
+As I progress through the advanced exercises (Ex. 88 - 107), I focus on:
 - **Data Collections:** Practical use of Tuples and Lists for complex data storage.
 - **Algorithm Optimization:** Logic for sorting data and statistical analysis.
 - **Data Integrity:** Ensuring clean inputs using `.strip()`, `.lower()`, and `.replace()`.
 
-## 📂 Repository Structure
+##  Repository Structure
 | Range | Topic | Status |
 | :--- | :--- | :--- |
 | `ex001` - `ex035` | Foundations & Math | ✅ Completed |
 | `ex036` - `ex071` | Control Flow & Loops | ✅ Completed |
-| `ex072` - `ex115` | Data Structures & Modules | 🚧 In Progress (Current: Ex. 082) |
+| `ex082` - `ex107` | Data Structures & Modules | ✅ Completed |
 
 ## 🛠 How to Run
 1. Clone the repository:
